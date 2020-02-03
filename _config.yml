@@ -3,30 +3,98 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sreenidhi Reddy Kommuri
+title: QA Automation / UAT Analyst
+email: sreesqacinc@gmail.com
+website: sreenidhi1425.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+#github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: sreenidhi-reddy-k-8a5b27a3
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/myprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sreenidhi and I'm a UAT Analyst. As well as a UAT Analyst, I also have experience in QA Automation. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+ # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  5+ years of diversified experience as a UAT Analyst Client\Server, Web Applications using Manual and Automation Testing Techniques with emphasis on Functional, System Integration, Cross browser and Regression. 
+
+  Experience in Project Management/ Business Analysis, Quality Management, Change/Release Management, Strategic Planning, and Delivery.
+
+  Experienced in analyzing Business Requirements, System Requirements Specification, use cases, and developing detailed Test plans, Test strategy, Test cases, Test Scenarios, and Test scripts.
+
+  Hands-on Technology professional accustomed to working in complex, project-based environments.
+
+  In-depth knowledge of software QA methodologies such as Waterfall, V-Model, Agile Scrum.
+
+  Experience in all phases of Software Development Life Cycle (SDLC), Defect Life Cycle in Waterfall and Agile methodology. 
+
+  Strongly experienced in writing test documentation, Test plans, Test strategy, Test scenarios, Test scripts, Test Analysis Report to evaluate test status. 
+
+  Proficient in testing Mobile Apps (Native Apps, Web Apps and Hybrid Apps) by using Emulator and real devices. 
+
+  Good knowledge of the HP ALM-Quality Centre to create and execute test scripts, log defect. 
+
+  Implement, develop, execute and maintenance of Quick Test Pro/ UFT automated tests. 
+
+  Involved in maintaining Test Matrix and Traceability Matrix and performed Gap Analysis. 
+
+  Experienced on Salesforce Administration and Customization, Data Validation, Sales, Marketing, Services and Support Development team.
+
+  Experienced in developing Test plans, Test cases RTM manually using HP ALM/Quality Center and Test scripts using automation tools like Selenium IDE and Web Driver.
+
+  Performed Backend/Database, System, GUI, End to End testing. 
+
+  Involved in creating UAT session, UAT Test Artefacts for clients and performed User Acceptance Testing (UAT). 
+
+  Experience in testing RDBMS such Oracle, SQL server, MS Access for data integrity.
+
+  Experience in using Connectors and Services, SOAP Requests and Responses, Parsing and data mapping, SQL and SOAP.
+
+  Design ETL mapping scenarios, create SQL scripts, SQL Queries, and define transformational rules. It is important to validate the mapping document as well.
+
+  Execute ETL tests per business requirement. Identify types of bugs or defects encountered during testing and make a report.
+
+  Strong skills in Data Analysis, Requirement Analysis, and Data mapping for business process.
+
+  Worked on python packages such as numpy/pandas/matplotlib.
+
+  Developed LINUX Shell scripts and Python Scripts for Batch processing.
+
+  Experience in ‘Quality’ domain and expert in ‘Quality Engineering and Automation’.
+
+  Well versed with QE Methodology and practices, with demonstrated experience in a SDE/SDET Role.
+
+  Extensive experience in Testing of API (Rest and Soap) and Web based applications.
+
+  Proficient level of computer skills including MS Office, MS Word, Excel and Power Point. 
+
+  Self- starter with strong work ethic and skills in time management, client relationship and ability to adapt and learn new tools, techniques and approaches. 
+
+  Strong oral and written communication skills, including presentation skills (MS PowerPoint). 
+
+  Strong problem solving and troubleshooting skills with the ability to exercise judgments.
+
+  Working on Business Process flows and flow actions in pega to support new enhancements without impacting in-flight cases.
+
+  Effectively used the debugging tools including Clipboard, Tracer, and Live UI.
+
+  Working in Agile Scrum methodology to implement the project deliverables.
+
+  Worked on SQL connector.
+
+  Creating Flows, Flow Actions, Harness, Section and Decision rules.
+
 
 # Projects Section
 # projects_title: Projects
@@ -39,12 +107,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
